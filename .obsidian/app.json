@@ -3,5 +3,9 @@
   "readableLineLength": false,
   "showLineNumber": true,
   "useTab": false,
-  "autoConvertHtml": false
+  "autoConvertHtml": false,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "附件"
 }
