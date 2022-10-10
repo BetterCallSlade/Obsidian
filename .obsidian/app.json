@@ -1,1 +1,7 @@
-{}
+{
+  "livePreview": false,
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "useTab": false,
+  "autoConvertHtml": false
+}
