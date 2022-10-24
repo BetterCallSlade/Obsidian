@@ -3,5 +3,6 @@
   "baseFontSize": 20,
   "baseFontSizeAction": false,
   "monospaceFontFamily": "Consolas",
-  "textFontFamily": "宋体"
+  "textFontFamily": "Consolas",
+  "accentColor": "#fd5362"
 }
